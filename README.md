@@ -33,6 +33,9 @@
 
 **CC BY-NC 4.0**（禁止商用）
 
+<img width="1458" height="1392" alt="QQ20260503-015743" src="https://github.com/user-attachments/assets/0c0c73c9-d03a-4c7f-8dfc-c3a65d8c3b9e" />
+
+
 ---
 
 ## 🚀 快速开始
