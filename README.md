@@ -26,12 +26,11 @@
 
 打开终端（命令行），执行以下命令：
 
-```bash
 pip install autogen-agentchat autogen-ext
 Tkinter 是 Python 标准库的一部分，通常不需要额外安装。
 若 Linux 下提示缺少 tkinter，请使用包管理器安装（如 sudo apt install python3-tk）。
 
-3. 获取 API 密钥
+### 3. 获取 API 密钥
 本应用默认使用 DeepSeek 提供的大模型服务。
 
 访问 DeepSeek 开放平台 并注册账号
